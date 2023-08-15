@@ -167,7 +167,7 @@ button:hover {
   width: 100%;
   position: absolute;
   bottom: 0;
-  background-image: url(/image/wave.png);
+  background-image: url(../image/wave.png);
   background-size: 948px;
   animation: waves 100s infinite;
 }
@@ -186,7 +186,7 @@ button:hover {
 
 .wave::before {
   content: "";
-  background-image: url(image/wave.png);
+  background-image: url(../image/wave.png);
 
   height: 100%;
   width: 100%;
